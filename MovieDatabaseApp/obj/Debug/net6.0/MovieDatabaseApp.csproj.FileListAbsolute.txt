@@ -1,0 +1,76 @@
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\MovieDatabaseApp.exe
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\MovieDatabaseApp.deps.json
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\MovieDatabaseApp.runtimeconfig.json
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\MovieDatabaseApp.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\MovieDatabaseApp.pdb
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\Humanizer.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\MySqlConnector.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\System.CodeDom.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\System.Text.Json.dll
+D:\Desktop\Test c#\MovieDatabaseApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Desktop\Test c#\MovieDatabaseApp\obj\Debug\net6.0\MovieDatabaseApp.csproj.AssemblyReference.cache
+D:\Desktop\Test c#\MovieDatabaseApp\obj\Debug\net6.0\MovieDatabaseApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Test c#\MovieDatabaseApp\obj\Debug\net6.0\MovieDatabaseApp.AssemblyInfoInputs.cache
+D:\Desktop\Test c#\MovieDatabaseApp\obj\Debug\net6.0\MovieDatabaseApp.AssemblyInfo.cs
+D:\Desktop\Test c#\MovieDatabaseApp\obj\Debug\net6.0\MovieDatabaseApp.csproj.CoreCompileInputs.cache
+D:\Desktop\Test c#\MovieDatabaseApp\obj\Debug\net6.0\MovieDatabaseApp.csproj.CopyComplete
+D:\Desktop\Test c#\MovieDatabaseApp\obj\Debug\net6.0\MovieDatabaseApp.dll
+D:\Desktop\Test c#\MovieDatabaseApp\obj\Debug\net6.0\refint\MovieDatabaseApp.dll
+D:\Desktop\Test c#\MovieDatabaseApp\obj\Debug\net6.0\MovieDatabaseApp.pdb
+D:\Desktop\Test c#\MovieDatabaseApp\obj\Debug\net6.0\MovieDatabaseApp.genruntimeconfig.cache
+D:\Desktop\Test c#\MovieDatabaseApp\obj\Debug\net6.0\ref\MovieDatabaseApp.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\MovieDatabaseApp.exe
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\MovieDatabaseApp.deps.json
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\MovieDatabaseApp.runtimeconfig.json
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\MovieDatabaseApp.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\MovieDatabaseApp.pdb
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\Humanizer.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\MySqlConnector.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\System.CodeDom.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\System.Text.Json.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\obj\Debug\net6.0\MovieDatabaseApp.csproj.AssemblyReference.cache
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\obj\Debug\net6.0\MovieDatabaseApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\obj\Debug\net6.0\MovieDatabaseApp.AssemblyInfoInputs.cache
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\obj\Debug\net6.0\MovieDatabaseApp.AssemblyInfo.cs
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\obj\Debug\net6.0\MovieDatabaseApp.csproj.CoreCompileInputs.cache
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\obj\Debug\net6.0\MovieDatabaseApp.csproj.CopyComplete
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\obj\Debug\net6.0\MovieDatabaseApp.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\obj\Debug\net6.0\refint\MovieDatabaseApp.dll
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\obj\Debug\net6.0\MovieDatabaseApp.pdb
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\obj\Debug\net6.0\MovieDatabaseApp.genruntimeconfig.cache
+D:\Desktop\TP-Tests-Csharp\MovieDatabaseApp\obj\Debug\net6.0\ref\MovieDatabaseApp.dll

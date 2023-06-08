@@ -1,0 +1,29 @@
+   CREATE DATABASE MovieDatabase;
+   USE MovieDatabase;
+
+   CREATE TABLE Movie (
+       id INT AUTO_INCREMENT PRIMARY KEY,
+       movie_name VARCHAR(100) NOT NULL,
+       movie_genre VARCHAR(50) NOT NULL,
+       movie_duration INT NOT NULL,
+       movie_budget DECIMAL(18, 2) NOT NULL
+   );
+   
+   USE MovieDatabase;
+
+   CREATE TABLE Actor (
+       id INT AUTO_INCREMENT PRIMARY KEY,
+       actor_name VARCHAR(100) NOT NULL,
+       actor_birthdate DATE NOT NULL,
+       actor_picture BLOB
+   );
+   
+  USE MovieDatabase;
+
+   CREATE TABLE MovieActor (
+       movie_id INT NOT NULL,
+       actor_id INT NOT NULL,
+       PRIMARY KEY (movie_id, actor_id),
+       FOREIGN KEY (movie_id) REFERENCES Movie(id),
+       FOREIGN KEY (actor_id) REFERENCES Actor(id)
+   );
